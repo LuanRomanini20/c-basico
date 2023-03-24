@@ -1,0 +1,8 @@
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\bin\Debug\Ex27.exe.config
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\bin\Debug\Ex27.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\bin\Debug\Ex27.pdb
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\obj\Debug\Ex27.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\obj\Debug\Ex27.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\obj\Debug\Ex27.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\obj\Debug\Ex27.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex27\obj\Debug\Ex27.pdb

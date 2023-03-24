@@ -1,0 +1,8 @@
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\bin\Debug\Ex9.exe.config
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\bin\Debug\Ex9.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\bin\Debug\Ex9.pdb
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\obj\Debug\Ex9.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\obj\Debug\Ex9.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\obj\Debug\Ex9.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex9\obj\Debug\Ex9.pdb

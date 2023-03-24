@@ -1,0 +1,8 @@
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\bin\Debug\Ex16.exe.config
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\bin\Debug\Ex16.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\bin\Debug\Ex16.pdb
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\obj\Debug\Ex16.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\obj\Debug\Ex16.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\obj\Debug\Ex16.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\obj\Debug\Ex16.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex16\obj\Debug\Ex16.pdb

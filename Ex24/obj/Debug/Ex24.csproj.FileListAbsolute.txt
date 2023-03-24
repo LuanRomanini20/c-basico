@@ -1,0 +1,8 @@
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\bin\Debug\Ex24.exe.config
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\bin\Debug\Ex24.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\bin\Debug\Ex24.pdb
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\obj\Debug\Ex24.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\obj\Debug\Ex24.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\obj\Debug\Ex24.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\obj\Debug\Ex24.exe
+C:\Users\luanr\Desktop\MeusProjetosC#\27Ex\Ex24\obj\Debug\Ex24.pdb
